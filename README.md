@@ -5,7 +5,7 @@
 * pour que les données restent anonymes,  
   le prof donne à chaque élève un numéro distinct (en commençant à 1)
 * le prof a créé un repo sur github (en clonant celui-ci)  
-  par exemple dans `ue12-p25/tp-class-text-groupe4`
+  par exemple dans `ue12-p26/tp-class-text-groupe4`
 * qui contient notamment
   * `CLASS-COMPLETE.txt` avec un texte où les lignes sont numérotées
   * `CLASS.txt` est une copie avec seulement les numéros de ligne
